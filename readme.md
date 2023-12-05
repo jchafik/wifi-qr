@@ -1,2 +1,2 @@
-npm i
-node generate.js SkyNet "GeorgieTown" WPA2
+- npm i
+- node generate.js ssid password WPA2
